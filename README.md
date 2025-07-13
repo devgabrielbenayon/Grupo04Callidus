@@ -1,6 +1,6 @@
 # Grupo 04 Callidus Academy
 
-## Projeto final de Inteligência Artificial 
+## Projeto final de Inteligência Artificial - AcroBot
 
 Professor: Dr.-Ing. Vicente Ferreira de Lucena Junior
 
