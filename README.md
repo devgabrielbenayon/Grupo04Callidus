@@ -1,4 +1,4 @@
-# Grupo 04 Callidus Academy
+# Grupo 04 - Callidus Academy
 
 ## Projeto final de Inteligência Artificial - AcroBot
 
