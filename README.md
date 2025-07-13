@@ -8,7 +8,7 @@ Researcher: MSc Nei Junior da Silva Farias
 
 ## Integrantes:
 
-Gabriel Benayon
-Gabriel Braga 
-Arthur Marshall
+Gabriel Benayon -
+Gabriel Braga -
+Arthur Marshall -
 João Guilherme
