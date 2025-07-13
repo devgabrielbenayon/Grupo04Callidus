@@ -3,6 +3,7 @@
 ## Projeto final de Inteligência Artificial 
 
 Professor: Dr.-Ing. Vicente Ferreira de Lucena Junior
+
 Researcher: MSc Nei Junior da Silva Farias
 
 ## Integrantes:
